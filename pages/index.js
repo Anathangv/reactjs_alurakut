@@ -33,9 +33,9 @@ export default function Home() {
               Pessoas da comunidade ({pesssoasFavoritas.length})
             </h2>
             <ul>
-              {pesssoasFavoritas.map((itenAtual) => {
+              {pesssoasFavoritas.map((itenAtual, index) => {
                 return (
-                  <li>
+                  <li key={index}>
                     <a href={`/users/${itenAtual}`} key={itenAtual}>
                       <img src={`https://github.com/${itenAtual}.png`}/>
                       <span>{itenAtual}</span>
