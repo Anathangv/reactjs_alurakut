@@ -50,3 +50,5 @@ export const ProfileRelationsBoxWrapper = styled(Box)`
     }
   }
 `;
+
+export default ProfileRelationsBoxWrapper;

@@ -23,3 +23,5 @@ export const MainGrid = styled.main`
     grid-template-columns: 160px 1fr 312px;
   }
 `;
+
+export default MainGrid;
