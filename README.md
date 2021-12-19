@@ -1,4 +1,5 @@
 Project created during the course Imersão React by Alura (https://www.alura.com.br/), to practice and improve my skills in ReactJs.
+Repository with the original application: https://github.com/alura-challenges/alurakut.
 In this course was developed an application using orkut as a sample, to explore its visual and basic functionalities.
 
 In this project is used the following technologies:
