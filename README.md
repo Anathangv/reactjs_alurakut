@@ -7,6 +7,7 @@ In this project is used the following technologies:
     - nookies (lib for use cookies)
  - Styled componnents
  - Dato CMS
+ - Verser - application deployment
 
  Features and functionalities for reference:
  - basic knowledg 
